@@ -1,0 +1,49 @@
+# Python virtual environment
+venv/
+env/
+ENV/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# VS Code settings
+.vscode/
+
+# Environment variables
+.env
+
+# Data files (if they're large)
+*.csv
+*.xlsx
+*.pkl
+*.h5
+data/*
+
+# Model files (if they're large)
+*.model
+*.pkl
+*.h5
+
+# Logs
+*.log
+logs/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.idea/
+*.swp
+*.swo
